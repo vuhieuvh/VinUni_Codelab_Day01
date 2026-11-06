@@ -1,5 +1,11 @@
 # Student Guide: Nền tảng LLM API (Step-by-Step Walkthrough)
 
+## 📌 Thông tin học viên
+- **GitHub Username:** vuhieuvh
+- **Email:** vuhieu3205@gmail.com
+
+---
+
 > [!NOTE]
 > Tài liệu này được thiết kế để hỗ trợ bạn hoàn thành bài Lab 01 một cách nhanh chóng nhất. Hãy sử dụng nó làm cẩm nang khi triển khai các hàm trong `template.py`.
 
